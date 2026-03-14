@@ -130,4 +130,73 @@ Key Capabilities
 • Predictive maintenance analytics  
 • Scalable data dashboards  
 
-Tech Stack
+
+---
+
+## 🚀 xcPEP Platform
+
+🔗 https://xcpep.com/
+
+Enterprise engineering platform used for **performance estimation, simulation workflows and large-scale engineering analysis**.
+
+Highlights
+
+• Dynamic engineering computation workflows  
+• Real-time UI visualization modules  
+• Scalable SaaS architecture  
+• Complex data interaction interfaces  
+
+
+---
+
+## 🚀 RealTalk
+
+Real-time peer-to-peer communication platform enabling **audio and video communication directly in the browser**.
+
+Core Features
+
+• WebRTC communication  
+• Peer-to-peer architecture  
+• Real-time connection handling  
+• Low latency streaming  
+
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=birdhar&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birdhar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=birdhar&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# ⚙️ Engineering Focus
+
+• Scalable web architecture  
+• SaaS platform development  
+• High-performance React applications  
+• Real-time systems  
+• Clean and maintainable codebases
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/birdhar">Birat Dhar</a>
+</p>
+
+
+
+
