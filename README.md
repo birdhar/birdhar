@@ -1,79 +1,133 @@
-<h1 align="center">Hi 👋, I'm Birat Dhar</h1>
-<h3 align="center">Frontend Developer | React | Next.js | TypeScript</h3>
+<h1 align="center">Hi 👋 I'm Birat Dhar</h1>
+
+<h3 align="center">
+Software Engineer | React • Next.js • TypeScript • Node.js
+</h3>
+
+<p align="center">
+Building scalable SaaS platforms, high-performance web applications and real-time systems.
+</p>
+
+<p align="center">
+📍 Bangalore, India
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💻 Frontend Developer with **3+ years experience building SaaS products**
-- 🚀 Currently working at **Intangles** as a Frontend Developer
-- ⚛️ Specializing in **React.js, Next.js, TypeScript**
-- 🧠 Interested in **high performance frontend architecture**
-- 🌱 Currently learning **NestJS, PostgreSQL, Redis**
-- 📍 Based in **Bangalore, India**
+Software Engineer with 3+ years of experience building scalable SaaS platforms and high-performance web applications.
 
----
+Experienced in designing modern web architectures using **React, Next.js, TypeScript, Node.js and distributed backend services**. Focused on building performant, maintainable and scalable systems used in production environments.
 
-## 🛠 Tech Stack
-
-### Frontend
-React.js • Next.js • TypeScript • JavaScript • HTML • CSS
-
-### State Management
-Redux Toolkit • Context API
-
-### Backend
-Node.js • NestJS
-
-### Database
-PostgreSQL • Redis
-
-### Styling
-Tailwind CSS • Material UI • SCSS
-
-### Tools
-Git • Docker • CI/CD • Webpack • Vite
+Currently contributing to intelligent mobility platforms and enterprise SaaS products.
 
 ---
 
-## 🚀 Featured Projects
+# 🔗 Connect With Me
 
-### 🔹 RealTalk
-Real-time video & audio communication platform using **WebRTC**
+<p align="center">
 
-Tech:
-React • WebRTC • Node.js
+<a href="https://linkedin.com/in/birat-dhar-78aa02131">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
+<a href="mailto:birat.dhar.89@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 
-### 🔹 EcommerceNext
-Modern ecommerce platform with **Next.js SSR**
+<a href="https://github.com/birdhar">
+<img src="https://img.shields.io/github/followers/birdhar?style=for-the-badge"/>
+</a>
 
-Tech:
-Next.js • Redux • Tailwind
-
----
-
-### 🔹 Search GitHub User
-GitHub profile search tool using GitHub API
-
-Tech:
-JavaScript • REST API
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Tech Stack
 
-![Birat's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdhar&show_icons=true&theme=tokyonight)
+## Frontend Engineering
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=birdhar&layout=compact)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css"/>
+</p>
+
+- React.js  
+- Next.js (SSR / SSG)  
+- TypeScript  
+- Modern JavaScript (ES6+)  
+- Responsive UI Architecture  
 
 ---
 
-## 🔗 Connect With Me
+## Backend & APIs
 
-LinkedIn  
-https://linkedin.com/in/birat-dhar-78aa02131
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs"/>
+</p>
 
-Email  
-birat.dhar.89@gmail.com
+- Node.js  
+- NestJS  
+- REST API Architecture  
+- Real-time communication systems  
+
+---
+
+## Databases & Caching
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,redis"/>
+</p>
+
+- PostgreSQL  
+- Redis  
+- Data modeling  
+- Query optimization  
+
+---
+
+## Styling & UI Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind,sass"/>
+</p>
+
+- TailwindCSS  
+- Material UI  
+- SCSS / SASS  
+- Component-driven UI systems  
+
+---
+
+## Dev Tools & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,vite,webpack"/>
+</p>
+
+- Git  
+- Docker  
+- Webpack  
+- Vite  
+- CI/CD pipelines  
+
+---
+
+# ⭐ Featured Projects
+
+---
+
+## 🚀 InRoute Connect
+
+🔗 https://www.intangles.ai/inroute-connect/
+
+Intelligent mobility platform designed for **real-time fleet monitoring, predictive analytics and vehicle performance insights**.
+
+Key Capabilities
+
+• Real-time vehicle data visualization  
+• Fleet health monitoring  
+• Predictive maintenance analytics  
+• Scalable data dashboards  
+
+Tech Stack
