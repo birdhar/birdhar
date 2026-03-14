@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Birat Dhar</h1>
 
 <h3 align="center">
-Software Engineer | React • Next.js • TypeScript • Node.js
+Software Engineer | React • Next.js • TypeScript • Node.js • Nest.js
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Building scalable SaaS platforms, high-performance web applications and real-tim
 </p>
 
 <p align="center">
-📍 Bangalore, India
+📍 Pune, India
 </p>
 
 ---
